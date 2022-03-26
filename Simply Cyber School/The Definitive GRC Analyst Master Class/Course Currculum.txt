@@ -1,0 +1,72 @@
+Course Curriculum
+
+Getting Started
+Welcome to the Course and Expectations
+Suggested Student Schedule
+About Your Instructor
+Prerequisites and Course Resources
+
+A Cybersecurity Primer
+Introduction
+Cybersecurity Primer Baseline Assessment
+What is Cybersecurity?
+What does a GRC Analyst do?
+Where does a GRC Analyst Fit in the Cybersecurity Picture?
+Understanding Technology
+Understanding Threats
+Quiz - Cybersecurity PRimer
+Conclusion and Touchpoints
+
+Compliance and Audit Work
+Introduction
+Compliance and Audit Baseline Assessment
+cybersecurity Frameworks
+Regulations and Compliance Standards
+Practical Auditing (Practial Lab)
+Quiz - Compliance and Audit
+Conclusion and Touchpoints
+Resume Bullet Unlocked
+
+Security Awareness Work 
+Introduction
+Security Awareness Baseline Assessment
+Know Your Audience
+Tools of the Trade
+Lets Raise Awareness (Practical Lab)
+Quiz - Security Awareness
+Conclusion and Touchpoints
+Resume Bullet Unlocked
+
+Cybersecurity Risk Work
+Introduction
+Cybersecurity Risk Baseline Assessment
+What is Cybersecurity Risk? 1 to 4
+What is Threat Modeling
+Lets Assess Risk (Practical Lab)
+Quiz - Cybersecurity Risk
+Conclusion and Touchpoints
+Resume Bullet Unlocked
+
+Information Security Governance Work
+Introduction
+Governance Baseline Assessment
+Policies
+Standards
+Procedures
+Let's Research and Write an Effective Policy (Practical Lab)
+Quiz - Governance
+Conclusion and Touchpoints
+Resume Bullet Unlocked
+
+Getting a GRC Analyst Job
+Introduction
+Getting a GRC Analyst Job Baseline Assessment
+Finding a Job
+Setup and Tune LinkedIn
+Resume
+Interviewing 
+Quiz - Getting a GRC Analyst Job
+Conclusion and Touchpoints
+
+Course Conclusion 
+Final Thoughts
