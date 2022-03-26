@@ -25,4 +25,20 @@ Admin and Technology Controls to Stop
 Should not have Compliance driving Cybersecurity
 
 Practical Auditing (Practical Lab)
-
+NIST SP 800-171 Aduit
+Audit Prep
+	800-171 excel sheet
+	Identify WHO we need to talk and what we to see
+	Understand what you're going to ask
+	Data Collection - interview, document review, testing
+	Response - Who? What?
+	Disposition - 
+Audit Logistics
+	Who do you need to talk to? Schedule meeting? How long?
+	Requesting SOP/Policy (documentation)
+Audit (on-site)
+	High impact; respect time
+Post Audit Reconciliation
+	
+Analysis
+Reporting
