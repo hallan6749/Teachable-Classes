@@ -1,0 +1,42 @@
+Post Audit Reconciliation
+Clean up data and organize it
+Analysis
+Go through and see if this is in place or not
+Not, Partial, Completed
+Make the decision
+Made disposition on each control
+Reporting
+Executive summary
+purpose
+scope
+who was interviewed
+what you audited (800-171)
+results
+like to the spreadsheet
+high level compliance status
+counclusion
+recommendations (follow up work, statement of work)
+
+Certifications
+CISA
+
+Quiz - Compliance and Audit
+Why are cybersecurity frameworks valuable? (select all that apply)
+What is Shadow IT?
+What is cyber resiliency?
+Which of the following can be used as cybersecurity frameworks? (select all that apply)
+What is the NIST Special Publication 800-53 document used for?
+What is the benefit of regulations that require information security controls?
+Which of the following are audit activity phases? (select all that apply)
+What are 3 audit techniques for data collection? (Select all that apply)
+If you determine a control is not implemented, what does that mean?
+What are key components of a final audit report? (select all that apply)
+
+Conclusion and Touchpoints
+CIS 18/20 Controls
+Framework - direction, repeatable, path
+
+Resume Bullet:
+These current bullets map to current education provided in this module. Be sure to stay informed on the discord channel https://simplycyber.io/discord to know when content is updated and additional resume bullets are added
+Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
+Knowledgable on NIST Cybersecurity Framework and how the Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program

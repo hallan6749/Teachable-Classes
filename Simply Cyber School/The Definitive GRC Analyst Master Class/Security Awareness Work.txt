@@ -1,0 +1,62 @@
+Introduction
+Module Objectives
+By the end of this module, students will be able to:
+Develop information security awareness content
+Identify several free resources supporting information security awareness content creation
+Contrast audience types for selecting awareness content aspects
+Evolved - Compliance, Just in time, Tech infused
+
+Security Awareness Baseline Assessment
+Who can be the recipient of information security awareness training? (select all that apply)
+Why is it important to tailor awareness training to specific audiences (like IT, HR, etc.)?
+Where should a GRC Analyst find ideas for security awareness content?
+What is the primary objective of security awareness training?
+What is a traditional method of delivering cybersecurity awareness that is limited in its effectiveness?
+
+Know Your Audience
+Always remember the point
+What is the goal?
+Always remember the audiance
+In General - not technical, not interested, word choice matters, personalize it, length and time
+8th grade reading level
+Specifically - executives, IT, HR, Finance, R&D Engineering
+
+Your Toolbox to Win the Day
+Below are list of resources, all that should be free, that you can leverage to achieve high quality security awareness content.
+Canva Image Editing https://www.canva.com/
+Loom Desktop Video Recording https://www.loom.com
+Pexels Photo Collections https://www.pexels.com/
+OBS (Bit complicated to setup) Desktop Video Recording https://obsproject.com/
+Streamlabs Desktop Video Recording https://streamlabs.com/
+Current Cybersecurity Stories to get Inspired
+Cisoseries.com
+https://threatpost.com/
+
+Lets Raise Awareness (Practical Lab)
+Current Events for News
+Understand and support
+Risk of AWS S3 Buckets
+How to secure properly
+Sample email:
+Keep You Buckets from Dripping - Cybersecurity Tip
+Its very easy to misconfigure an AWS S3 Bucket and have your data leaked on the Internet
+Check out this 60 second video on how bad the data leak can be, and what you can do to prevent it
+Linked Video (always upload it to somewhere)
+
+Quiz
+Who can be the recipient of information security awareness training? (select all that apply)
+What free tool allows you to record yourself and your screen to make content? (select all that apply)
+Why is it important to have short, frequent security awareness content?
+What is useful technique for having your awareness messaging resonate with end users?
+Why is it important to tailor awareness training to specific audiences (like IT, HR, etc.)?
+Where should a GRC Analyst find ideas for security awareness content?
+What (free) website can a GRC Analyst use to get free photography to use in security awareness content?
+What is an effective method for communicating developed security awareness content to a user population?
+What is the primary objective of security awareness training?
+What is a traditional method of delivering cybersecurity awareness that is limited in its effectiveness?
+
+Counclusion
+Resume
+Hope you enjoyed the security awareness lab. If you took the lectures and made the awareness video in the lab (and posted it on LinkedIN!) you've earned these resume bullets.
+Developed concise, tailored cybersecurity awareness content, improving targeted end-user base cyber hygiene
+Developed Just-In-Time cybersecurity awareness content for emerging threats to reduce operational risk to tailored audiences

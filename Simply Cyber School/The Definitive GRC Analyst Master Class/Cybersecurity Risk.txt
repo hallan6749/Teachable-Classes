@@ -1,0 +1,45 @@
+Introduction
+Module Objectives
+By the end of this module, students will be able to:
+Explain what information security risk is
+Name multiple resources for gathering threat intelligence
+Apply threat intelligence to qualifying information security risk
+Analyze information security risk based on vulnerabilities, threats, and exploitation potential
+Summarize how information security risk is calculated
+
+Baseline Assessment
+What is cybersecurity risk?
+What is cybersecurity risk analysis?
+What GRC role and function does risk analysis naturing evolve from?
+What is threat modeling?What are two techniques for analyzing cybersecurity risk? (select all that apply)
+What are two techniques for analyzing cybersecurity risk? (select all that apply)
+
+What is Cybersecurity Risk? (1 of 4)
+Mitigate Risk
+Accept the Risk
+Remediate Risk
+Transfer the Risk
+NIST 800-37 Risk Management Framework SP 800-39
+	Categorize System SP 800-60 Moderate Mostly Category
+	Select Controls SP 800-53 Dictionary of Controls
+
+What is Cybersecurity Risk? (2 of 4)
+	Implement Controls with purchasing and engineers LONG TIME (MFA and Email Gateways more important ones)
+	Assess Controls whole organization or specific controls (3rd party assess or business continuation (backups) or mission critical apps)
+
+
+What is Cybersecurity Risk? (3 of 4)
+NIST Assessment Process 800-30
+Assess Controls
+3rd party
+data export
+assessing things that they shouldn't
+not great audlting 
+end point response
+Likely - partnered with for years and specalized, low to mod
+Impact - not in the company network, internal documents, not material to the organization, not that bad, low
+Priorities
+
+
+	Authorize System 
+	Monitor Controls
