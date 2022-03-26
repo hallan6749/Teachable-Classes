@@ -1,0 +1,28 @@
+Introduction
+Module Objectives
+By the end of this module, students will be able to:
+Name multiple information security frameworks
+Carry out an information security compliance audit
+Apply resources to understand and communicate information security controls to external audiences
+
+Compliance and Audit Baseline Assessment
+Why are cybersecurity frameworks valuable? (select all that apply)
+Which of the following can be used as cybersecurity frameworks? (select all that apply)
+What is the benefit of regulations that require information security controls?
+Which of the following are audit activity phases? (select all that apply)
+What are key components of a final audit report? (select all that apply)
+
+Cybersecurity Frameworks
+Protect the organization from damage
+Security Controls Identify and Protect
+SP 800-53
+CIS 20(18) Controls 
+MFA
+
+Regulations and Compliance Standards
+Forced and Audit
+Admin and Technology Controls to Stop
+Should not have Compliance driving Cybersecurity
+
+Practical Auditing (Practical Lab)
+
