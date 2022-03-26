@@ -1,0 +1,15 @@
+Course Objectives
+You might be wondering, what is this course going to do for me. Well I got you covered.
+By the end of the course, students will be able to:
+Demonstrate core GRC Analyst capabilities including risk analysis, security awareness content creation, and audit
+Explain the structure and implementation of cybersecurity frameworks in an organization
+Identify how the GRC analyst contributes to an overall information security program
+Carry out an information security audit or assessment
+Build effective information security awareness content
+Utilize content to improve opportunities to discover and acquire a GRC analyst role
+
+Gerald Auger, PhD
+I love cybersecurity and sharing cybersecurity knowledge. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/geraldauger/
+
+No Prerequisites 
+Discord for Course Resources
