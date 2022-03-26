@@ -1,0 +1,49 @@
+Introduction
+Cybersecurity Primer Module Objectives
+By the end of this module, students will be able to:
+List key cybersecurity terminology
+Recognize servers, endpoints, and networking technology
+Explain the GRC analyst role and how it operates within an information security program
+Classify different types of threats based on threat actor
+
+Baseline Assessment
+What are the 3 core security objectives that focuses on protecting systems and data?
+What is an expected capability of the GRC function? (select all that apply)
+What technology allows computers to communicate with each other?
+What threats must a GRC analyst consider? (select all that apply)
+What is the typical motivation for a Hacktivist based threat actor?
+
+What is Cybersecurity?
+Cybersecurity is a massive field, but there is definitely accepted conventions in the way its implemented at organizations and why. Let's briefly frame cybersecurity.
+People, Process, Technology
+The CIA Triad - Confidentiality, Integrity, Availability
+Cybersecurity Framework - Identify, Protect, Detect, Respond, Recover
+Key Terminology - Vulnerability, Exploit, Risk, Incident, Malware
+
+What does a GRC Analyst do?
+Cybersecurity Framework - Identify and Protect section
+Key Activites - Compliance and Audit, Security Awareness, Assess Risk, Instill Governance, Speak 'Security' for the Business
+
+Where does a GRC Analyst Fit in the Cybersecurity Picture?
+Under Associate Director and CISO
+
+Understanding Technology
+Network Communications
+
+Understanding Threats
+If the world was perfect cybersecurity wouldn't exist. But there are threat actors and unexpected situations. A leaky air conditioner on a server is just effective at destroying your systems as the most advanced nation state threat actor. In this lecture we are going to get to know our threats a bit better for context of our GRC role.
+Threat - Motives, Capabilities, Support Structure, Comment
+
+Quiz - Cybersecurity Primer
+What are the 3 core security objectives that focuses on protecting systems and data?
+What are the 5 categories of the NIST Cybersecurity Framework?
+What is an expected capability of the GRC function? (select all that apply)
+What does the term "Left of Boom" mean?
+How many layers are there in the OSI Model (network model)
+What technology allows computers to communicate with each other?
+What two network layers are related to TCP/IP
+What does DNS do?
+What threats must a GRC analyst consider? (select all that apply)
+What is the typical motivation for a Hacktivist based threat actor?
+
+Conclusion and Touchpoints
